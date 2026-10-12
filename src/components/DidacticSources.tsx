@@ -88,7 +88,7 @@ export const DidacticSources: React.FC = () => {
               1. Das 15-Minuten Ankommens-Ritual
             </div>
             <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-              Erwachsene Teilnehmer kommen oft direkt aus stressigem Alltag, Arbeit oder Ämtergängen. Feste Einstiegsrituale (wie die Namensrunde im Kreis) schalten das Sprachzentrum sanft auf Deutsch um.
+              Erwachsene Teilnehmer kommen oft direkt aus forderndem Alltag, Arbeit oder Ämtergängen. Feste, würdevolle Einstiegsrituale (wie das Aufstellen des Namensschilds und eine ruhige Begrüßung am Platz) schalten das Sprachzentrum sanft auf Deutsch um – ganz ohne kindliche Spiele.
             </p>
           </div>
 

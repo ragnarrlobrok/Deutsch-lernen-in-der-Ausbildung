@@ -627,7 +627,7 @@ export const DiagnosticTest: React.FC<DiagnosticTestProps> = ({
                   <p>
                     {completedParticipant.assignedLevel === 'A0' && 'Gemeinsam mit einem sprachverwandten Lernpartner setzen. Zuerst Fokus auf das Nachsprechen und Buchstabieren des eigenen Namens legen.'}
                     {completedParticipant.assignedLevel === 'A1.1' && 'Standard-Ablauf: Aktiv in der Namensrunde mitsprechen lassen, Dialogkarte "Woher kommen Sie?" zuweisen.'}
-                    {completedParticipant.assignedLevel === 'A1.2' || completedParticipant.assignedLevel === 'A2.1' ? 'Ideal als Partner für Lerner mit geringeren Vorkenntnissen. Kurze Frage-Antwort-Spiele initiieren lassen.' : ''}
+                    {completedParticipant.assignedLevel === 'A1.2' || completedParticipant.assignedLevel === 'A2.1' ? 'Ideal als Partner für Lerner mit geringeren Vorkenntnissen. Strukturierte Frage-Antwort-Sequenzen im Partnerdialog anleiten lassen.' : ''}
                   </p>
                 </div>
 

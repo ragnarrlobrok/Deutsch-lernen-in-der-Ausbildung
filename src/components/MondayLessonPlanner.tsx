@@ -33,12 +33,12 @@ export const MondayLessonPlanner: React.FC = () => {
 
   // Teacher lesson notes & checklist
   const [teacherNotes, setTeacherNotes] = useState(
-    'Notizen für heute:\n- Namensschilder auf den Tischen verteilen\n- Weltkarte aufhängen für Herkunftsrunde\n- 4 Teilnehmer haben Test bereits absolviert: Olena (A1.1), Tariq (A0), Maria (A1.2), Kenan (A1.1)\n- Maria & Tariq als Tandem für Phase 3 einteilen!'
+    'Notizen für heute:\n- Namensschilder auf den Tischen verteilen (ruhige Vorstellungsrunde am Platz)\n- Weltkarte aufhängen für Herkunftsrunde\n- 4 Teilnehmer haben Test bereits absolviert: Olena (A1.1), Tariq (A0), Maria (A1.2), Kenan (A1.1)\n- Maria & Tariq als Tandem für Phase 3 einteilen!\n- Keine Spiele oder Ballzuwerfen – erwachsenengerechte Didaktik auf Augenhöhe!'
   );
 
   const [checklist, setChecklist] = useState([
-    { id: 'c1', text: 'Namensschilder und dicke Filzstifte bereitgelegt', done: true },
-    { id: 'c2', text: 'Kennenlern-Ball / Gegenstand für den Stuhlkreis da', done: true },
+    { id: 'c1', text: 'Tisch-Namensschilder und dunkle Filzstifte bereitgelegt', done: true },
+    { id: 'c2', text: 'Begrüßungs-Handout mit Dialogmustern auf den Tischen verteilt', done: true },
     { id: 'c3', text: 'Tafelbild für Umlaute (ä, ö, ü) vorbereitet', done: false },
     { id: 'c4', text: 'Lernstandstest auf dem Tablet/Beamer aufgerufen', done: true },
     { id: 'c5', text: 'Kopien der Redemittel für Partnerarbeit verteilt', done: false }

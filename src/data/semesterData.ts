@@ -86,7 +86,7 @@ export const INITIAL_SEMESTER_SESSIONS: SemesterSession[] = [
     weekNumber: 6,
     dateFormatted: '16. Nov 2026',
     moduleTitle: 'Modul 1: Orientierung & Grundlagen',
-    topicTitle: 'Einheit 6: Modul 1 Abschluss & Rollenspiel-Stationen',
+    topicTitle: 'Einheit 6: Modul 1 Abschluss & Praxisdialoge',
     competencies: ['Minidialoge verknüpfen', 'Freies Sprechen ohne Notizen', 'Feedbackrunde Modul 1'],
     status: 'upcoming',
     homeworkTask: 'Wiederholung aller Vokabelkarten aus Modul 1 in der App.'
@@ -188,7 +188,7 @@ export const INITIAL_SEMESTER_SESSIONS: SemesterSession[] = [
     topicTitle: 'Einheit 17: Termine vereinbaren & Kalender',
     competencies: ['Arzttermine am Telefon buchen', 'Terminverschiebung', 'Pünktlichkeit & Absagen'],
     status: 'upcoming',
-    homeworkTask: 'Telefon-Rollenspiel „Termin beim Zahnarzt“ vorbereiten.'
+    homeworkTask: 'Telefondialog „Termin beim Zahnarzt“ im Partnergespräch vorbereiten.'
   },
   {
     weekNumber: 18,

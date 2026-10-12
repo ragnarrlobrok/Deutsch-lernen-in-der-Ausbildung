@@ -33,7 +33,7 @@ const LANGUAGES: LanguageOption[] = [
 
 const ALPHABET_LIST = [
   { letter: 'A a', example: 'Apfel', phonetic: '[a:]', audio: 'A wie Apfel' },
-  { letter: 'B b', example: 'Ball', phonetic: '[be:]', audio: 'B wie Ball' },
+  { letter: 'B b', example: 'Brot', phonetic: '[be:]', audio: 'B wie Brot' },
   { letter: 'C c', example: 'Computer', phonetic: '[tse:]', audio: 'C wie Computer' },
   { letter: 'D d', example: 'Danke', phonetic: '[de:]', audio: 'D wie Danke' },
   { letter: 'E e', example: 'Elefant', phonetic: '[e:]', audio: 'E wie Elefant' },
