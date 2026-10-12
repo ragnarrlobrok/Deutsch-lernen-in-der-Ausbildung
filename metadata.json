@@ -1,0 +1,8 @@
+{
+  "name": "DeutschStart - Kurs- & Einstufungsportal",
+  "description": "Einsteigerfreundliches Portal für Deutschkurse (GER A1/A2): Interaktiver Lernstandstest zur Ist-Zustands-Erhebung, 120-Minuten-Montags-Unterrichtsbegleiter, Phonetik- & Redemitteltraining mit Audio und Mehrsprachenhilfe nach BAMF & Goethe-Institut Standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
